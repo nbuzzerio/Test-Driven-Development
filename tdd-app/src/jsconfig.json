@@ -1,0 +1,8 @@
+//look up intelliscence with jest
+{
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}
